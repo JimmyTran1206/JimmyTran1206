@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://github.com/JimmyTran1206/JimmyTran1206/assets/67088234/4aea3afa-7b0f-4d1b-8b4d-ac3b53a55fe3" alt=”my banner”>
-
-</p>
+![](JimmyTran%20Technology%20Banner.jpg)
 
 <!--
 **JimmyTran1206/JimmyTran1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -56,7 +56,7 @@ I have a strong background in software development, having worked as both a fron
 
 💬 Please do not hesitate to reach out to me!
 
-- <a href="www.linkedin.com/in/jimmy-tran-68b312199"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px"/> LinkedIn</a>
+- <a href="https://www.linkedin.com/in/jimmy-tran-68b312199"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px"/> LinkedIn</a>
 
 - <a href="http://52.14.238.144/"><img align="left" src="homepage.svg" width="25px"/> Homepage</a>
 
@@ -71,18 +71,3 @@ I have a strong background in software development, having worked as both a fron
 
 - React/ Angular Context API
 - Styled Components
-
-<!--
-**JimmyTran1206/JimmyTran1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

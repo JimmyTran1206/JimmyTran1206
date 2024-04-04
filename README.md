@@ -1,7 +1,7 @@
 ![](JimmyTran%20Technology%20Banner.jpg)
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Jimmy Tran</a> 👋
+👋 Hi there, I'm <br> <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">✨Jimmy Tran✨</a> 
 </h3>
 
 <h2 align="center">
@@ -52,7 +52,7 @@ I have a strong background in software development, having worked as both a fron
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## 🤝 Connect with me:
+## 🤝 Connect with me
 
 💬 Please do not hesitate to reach out to me!
 
@@ -60,27 +60,17 @@ I have a strong background in software development, having worked as both a fron
 
 - <a href="http://52.14.238.144/"><img align="left" src="homepage.svg" width="25px"/> Homepage</a>
 
-## 🔭 I'm currently working on
+## 🚀 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Ecommerce App (Java-Spring)
+- My data structure and algorithm
+- My CSS skills.
 
-## 🌱 I'm currently learning
+## 🔭 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
+- React/ Angular Context API
 - Styled Components
-
-## 📝 Latest Blog Posts
-
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
 <!--
 **JimmyTran1206/JimmyTran1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@
 I'm a Full-Stack Software Developer 💻.
 </h2>
 
-I have a strong background in software development, having worked as both a front-end and back-end developer. I am able to take ownership of a project and see it through to completion, ensuring that all deadlines are met and that the end product is of the highest quality.
+I have a strong background in software development, having worked as both a front-end and back-end developer. I am able to take ownership of a project and see it through to completion, ensuring that all deadlines are met and that the end product reaches the highest quality.
 
 ## 💼 Technical Skills
 
